@@ -19,6 +19,12 @@ const songList = document.querySelector('.song-list ul');
 
 //  List of songs
 const songs = [
+   {
+    title: 'Dhuaan',
+    artist: 'Arijit Singh',
+    src: 'Assets/Muzic/Dhuaan Fugly 128 Kbps.mp3',
+    thumbnail: 'Assets/Thumbnails/dhuaan-ArijitSingh.jpg',
+  },
   {
     title: 'Chaar Botal Vodka',
     artist: 'Yo Yo Honey Singh',
@@ -48,12 +54,6 @@ const songs = [
     artist: 'Emiway Bantai',
     src: 'Assets/Muzic/EMIWAY - FIRSE MACHAYENGE (OFFICIAL MUSIC VIDEO)(MP3_70K).mp3',
     thumbnail: 'Assets/Thumbnails/Firse-Machayenge.jpg',
-  },
-  {
-    title: 'Dhuaan',
-    artist: 'Arijit Singh',
-    src: 'Assets/Muzic/Dhuaan Fugly 128 Kbps.mp3',
-    thumbnail: 'Assets/Thumbnails/dhuaan-ArijitSingh.jpg',
   },
   {
     title: 'Girlfriend',
