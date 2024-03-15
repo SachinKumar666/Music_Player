@@ -24,18 +24,24 @@ const songs = [
     artist: 'Arijit Singh',
     src: 'Assets/Muzic/Dhuaan Fugly 128 Kbps.mp3',
     thumbnail: 'Assets/Thumbnails/dhuaan-ArijitSingh.jpg',
+   },
+   {
+    title: 'Ik Saal',
+    artist: 'Jassi Gill',
+    src: 'Assets/Muzic/Ik Saal.mp3',
+    thumbnail: 'Assets/Thumbnails/Ik-Saal-jassiGill.jpg',
+   },
+   {
+    title: 'Girlfriend',
+    artist: 'Jass Manak',
+    src: 'Assets/Muzic/GIRLFRIEND _ JASS MANAK (Official Video) Satti Dhi(MP3_70K).mp3',
+    thumbnail: 'Assets/Thumbnails/girlfriend-jassmanak.jpeg',
   },
   {
     title: 'Chaar Botal Vodka',
     artist: 'Yo Yo Honey Singh',
     src: 'Assets/Muzic/Chaar Botal Vodka Full Song Feat. Yo Yo Honey Singh_ Sunny Leone _ Ragini MMS 2(MP3_70K).mp3',
     thumbnail: 'Assets/Thumbnails/chaarBotalVodkaYoYoHoneySingh.jpg',
-  },
-  {
-    title: 'Ik Saal',
-    artist: 'Jassi Gill',
-    src: 'Assets/Muzic/Ik Saal.mp3',
-    thumbnail: 'Assets/Thumbnails/Ik-Saal-jassiGill.jpg',
   },
   {
     title: 'Bossmobi',
@@ -54,12 +60,6 @@ const songs = [
     artist: 'Emiway Bantai',
     src: 'Assets/Muzic/EMIWAY - FIRSE MACHAYENGE (OFFICIAL MUSIC VIDEO)(MP3_70K).mp3',
     thumbnail: 'Assets/Thumbnails/Firse-Machayenge.jpg',
-  },
-  {
-    title: 'Girlfriend',
-    artist: 'Jass Manak',
-    src: 'Assets/Muzic/GIRLFRIEND _ JASS MANAK (Official Video) Satti Dhi(MP3_70K).mp3',
-    thumbnail: 'Assets/Thumbnails/girlfriend-jassmanak.jpeg',
   },
   {
     title: 'Ik Tera',
